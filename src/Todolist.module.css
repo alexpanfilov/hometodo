@@ -1,0 +1,12 @@
+.completedStyle {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+
+.ActiveBtn {
+    background-color: dodgerblue;
+    border: 1px solid darkblue;
+    border-radius: 2px;
+    margin-right: 2px;
+    color: #fff;
+}
